@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently study on: **[Master Degree of National Tsing Hua University](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I just graduated from: **[Master Degree of National Tsing Hua University](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning: **Deep learning and Computer Vision.**
 
