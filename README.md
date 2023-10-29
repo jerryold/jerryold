@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 </div>
 
-## 🙋‍♂️ Self Introduction
+## 🙋‍♂️ Brief Introduction
 ![github-header-image (1)](https://github.com/jerryold/jerryold/assets/12774427/f5034034-7810-47ab-958e-f076cf95b028)
 <div align=center>
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700">
@@ -12,7 +12,7 @@
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
 <h5 align="center"><em>&ensp; Feel free to reach out to me for collaboration, questions, or just a friendly chat. You can connect with me here on GitHub or find me on below social media</em></h5>
 
-## 🙋‍♂️ About Me
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="30">&nbsp; About Me
 
 - 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/)**
 
