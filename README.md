@@ -12,7 +12,7 @@
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
 <h5 align="center"><em>&ensp; Feel free to reach out to me for collaboration, questions, or just a friendly chat. You can connect with me here on GitHub or find me on below social media</em></h5>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="30">&nbsp; About Me
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="70">&nbsp; About Me
 
 - 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/)**
 
