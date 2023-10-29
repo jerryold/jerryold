@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jerry</h1>
 <h3 align="center">I'm Developer in Taiwan, and still exploring the fascinating world of software engineering.</h3>
-<div align=center>
+<div align=center>![github-header-image](https://github.com/jerryold/jerryold/assets/12774427/9d341825-079a-485b-88e7-ed77a5b14301)
+
 <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863](https://github.com/jerryold/jerryold/assets/12774427/343ec40e-a32f-4632-931a-3a3ac253aa94)" width="500">
 </div>
 
