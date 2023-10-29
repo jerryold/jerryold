@@ -5,13 +5,6 @@
 ![github-header-image](https://github.com/jerryold/jerryold/assets/12774427/1eb0193b-660f-4cc7-b800-9396999c8400)
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jerry</h1>
-<h3 align="center">I'm Developer in Taiwan, and still exploring the fascinating world of software engineering.</h3>
-
-
-
-
-
 
 <h5 align="center"><em>&ensp; I enjoy working on projects that challenge my skills and push me to grow as an engineer.</em></h5>
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
