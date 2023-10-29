@@ -5,11 +5,11 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jerry</h1>
 <h3 align="center">I'm a passionate Enginner Developer in Taiwan, and I would like to try to develop new thing to improve my skills.</h3>
-<div>
-        <div align=left>
+<div style="width:100%;overflow:hidden;">
+        <div style="float:left;width:50%;float:left;">
         <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
         </div>
-        <div align=right>
+        <div style="float:right;width:50%;float:right;">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200">
         </div>
 </div>
