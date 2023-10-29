@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 </div>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="70">&nbsp; Brief Introduction
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="60">&nbsp; Brief Introduction
 ![github-header-image (1)](https://github.com/jerryold/jerryold/assets/12774427/f5034034-7810-47ab-958e-f076cf95b028)
 <div align=center>
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700">
@@ -12,7 +12,7 @@
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
 <h5 align="center"><em>&ensp; Feel free to reach out to me for collaboration, questions, or just a friendly chat. You can connect with me here on GitHub or find me on below social media</em></h5>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="70">&nbsp; About Me
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="60">&nbsp; About Me
 
 - 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/)**
 
@@ -33,7 +33,7 @@
 
     
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/366d67af-a5ad-4c0a-bf14-1bebfed20a3a" width="70">&nbsp; Languages and Tools:
+## <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="60">&nbsp; Languages and Tools:
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/64/000000/javascript.png"/> </a> 
@@ -75,7 +75,7 @@
 
 
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="70">&nbsp; My Github Stats
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60">&nbsp; My Github Stats
 
   <br/>
     <a href="https://github.com/jerryold/github-readme-stats"><img alt="jerryold's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jerryold&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
