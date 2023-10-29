@@ -10,13 +10,13 @@
 ## 🙋‍♂️ About Me
 
    
-<h4 align="left">- 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/)**</h4>
+- 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/)**
 
-<h4 align="left">- 🌱 I’m currently interested in: **Deep learning and Computer Vision.**</h4>
+- 🌱 I’m currently interested in: **Deep learning and Computer Vision.**
         
-<h4 align="left">- 📫 How to reach me: **jerry86064@gmail.com**</h4>
+- 📫 How to reach me: **jerry86064@gmail.com**
         
-<h4 align="left">- ⚡ Habbit: **I like to enjoy outdoor activity and workout very often.**</h4>
+- ⚡ Habbit: **I like to enjoy outdoor activity and workout very often.**
     
     
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="00">
