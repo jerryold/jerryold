@@ -5,10 +5,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jerry</h1>
 <h3 align="center">I'm a passionate Enginner Developer in Taiwan, and I would like to try to develop new thing to improve my skills.</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 
 
 ## 🙋‍♂️ About Me
-
 
 - 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/)**
 
