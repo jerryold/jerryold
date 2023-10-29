@@ -1,7 +1,6 @@
 <div align=center>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 </div>
-<br><br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jerry</h1>
 <h3 align="center">I'm Developer in Taiwan, and still exploring the fascinating world of software engineering.</h3>
