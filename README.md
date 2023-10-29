@@ -18,7 +18,7 @@
 - 📫 How to reach me: **jerry86064@gmail.com**
         
 - ⚡ Habbit: **I like to enjoy outdoor activity and workout very often.**
-<div align=center>
+<div align=right>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200">
 </div>
     
