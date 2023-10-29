@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 
    
-- 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/)**
 
 - 🌱 I’m currently interested in: **Deep learning and Computer Vision.**
         
