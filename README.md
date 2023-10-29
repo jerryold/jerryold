@@ -3,7 +3,8 @@
 </div>
 
 ## 🙋‍♂️ Self Introduction
-![github-header-image (1)](https://github.com/jerryold/jerryold/assets/12774427/d4718127-343b-4271-9ed5-d7620b68db24)
+![github-header-image (1)](https://github.com/jerryold/jerryold/assets/12774427/f5034034-7810-47ab-958e-f076cf95b028)
+
 
 <h5 align="center"><em>&ensp; I enjoy working on projects that challenge my skills and push me to grow as an engineer.</em></h5>
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
