@@ -5,7 +5,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jerry</h1>
 <h3 align="center">I'm a passionate Enginner Developer in Taiwan, and I'm exploring the fascinating world of software engineering.
-<h3>I enjoy working on projects that challenge my skills and push me to grow as an engineer.</h3>Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.Feel free to reach out to me for collaboration, questions, or just a friendly chat. You can connect with me here on GitHub or find me on below social media</h3>
+<h3>I enjoy working on projects that challenge my skills and push me to grow as an engineer.</h3>
+       <p>Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.Feel free to reach out to me for collaboration, questions, or just a friendly chat. You can connect with me here on GitHub or find me on below social media</p>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700">
