@@ -8,17 +8,19 @@
 
 
 ## 🙋‍♂️ About Me
-<div align=left>
-- 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://covid-19-tracker-e4bda.web.app/)**
-
-- 🌱 I’m currently interested in: **Deep learning and Computer Vision.**
-
-- 📫 How to reach me: **jerry86064@gmail.com**
-
-- ⚡ Habbit: **I like to enjoy outdoor activity and workout very often.**
-</div>
-<div align='right'>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200">
+<div>
+    <div align=left>
+    - 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://covid-19-tracker-e4bda.web.app/)**
+    
+    - 🌱 I’m currently interested in: **Deep learning and Computer Vision.**
+    
+    - 📫 How to reach me: **jerry86064@gmail.com**
+    
+    - ⚡ Habbit: **I like to enjoy outdoor activity and workout very often.**
+    </div>
+    <div align='right'>
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="100">
+    </div>
 </div>
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="30"> Languages and Tools:
 
