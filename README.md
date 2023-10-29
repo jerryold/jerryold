@@ -2,9 +2,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 </div>
 
+## 🙋‍♂️ Self Introduction
 ![github-header-image](https://github.com/jerryold/jerryold/assets/12774427/1eb0193b-660f-4cc7-b800-9396999c8400)
-
-
 
 <h5 align="center"><em>&ensp; I enjoy working on projects that challenge my skills and push me to grow as an engineer.</em></h5>
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
