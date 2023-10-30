@@ -5,7 +5,9 @@
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="60">&nbsp; Brief Introduction
 ![github-header-image (1)](https://github.com/jerryold/jerryold/assets/12774427/f5034034-7810-47ab-958e-f076cf95b028)
 
-<div align="center" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700"></div>
+<div align="center">
+       <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700">
+</div>
 
 
 <h5 align="center"><em>&ensp; I enjoy working on projects that challenge my skills and push me to grow as an engineer.</em></h5>
