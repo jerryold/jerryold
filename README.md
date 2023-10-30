@@ -73,7 +73,7 @@
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60">&nbsp; My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryold&theme=vision_friendly_dark)
-<img width="450em" align="center" alt="jerryold's Github stats"  src="https://github-readme-stats.vercel.app/api?username=jerryold&show_icons=true&count_private=true&theme=vue-dark" />   |
+
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250" height="400">
 
@@ -82,13 +82,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryold&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryold&theme=vision_friendly_dark&utcOffset=8)
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jerryold/jerryold/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jerryold/jerryold/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jerryold/jerryold/output-3d-contrib/day.svg" />
-	</picture>
-</p>
 
 ## Connect with me:
 <p align="left">
