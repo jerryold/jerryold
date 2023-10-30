@@ -81,6 +81,7 @@
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60">&nbsp; My Github Stats
 
   <br/>
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
     <a href="https://github.com/jerryold/github-readme-stats"><img alt="jerryold's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jerryold&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/jerryold/github-readme-stats"><img alt="jerryold's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryold&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
