@@ -68,13 +68,9 @@
 </p>
 
 
-<br/>
 
-<div align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</div>
+
+
 
 
 
@@ -87,13 +83,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryold&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryold&theme=default&utcOffset=8)
 
-<br/>
-<br/>
 
-
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
