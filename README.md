@@ -11,6 +11,7 @@
 
 <h5 align="center"><em>&ensp; I enjoy working on projects that challenge my skills and push me to grow as an engineer.</em></h5>
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=241203&random=false&width=435&lines=Feel+free+to+reach+out+to+me+for+collaboration%2C+questions%2C+or+just+a+friendly+chat.)](https://git.io/typing-svg)
 <h5 align="center"><em>&ensp; Feel free to reach out to me for collaboration, questions, or just a friendly chat. You can connect with me here on GitHub or find me on below social media</em></h5>
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="60">&nbsp; About Me
