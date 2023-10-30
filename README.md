@@ -14,7 +14,7 @@
 
 <div align="center">
        
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&duration=3000&pause=100&color=874333&center=true&multiline=true&random=false&width=435&lines=Feel+free+to+reach+out+to+me+for++collaboration;You+can+connect+with+me+on+GitHub+or+social+media)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&duration=4000&pause=300&color=82582FE1&center=true&multiline=true&random=false&width=435&lines=Feel+free+to+reach+out+and+connect!;I'm+always+interested+in+meeting+new+people+)](https://git.io/typing-svg)
 
 </div>
 
