@@ -77,8 +77,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryold&theme=vision_friendly_dark)
 
-<br></br>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250" height="425">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250" height="400">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerryold&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerryold&theme=vision_friendly_dark)
