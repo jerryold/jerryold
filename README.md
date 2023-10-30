@@ -9,7 +9,6 @@
        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700">
 </div>
 
-
 <h5 align="center"><em>&ensp; I enjoy working on projects that challenge my skills and push me to grow as an engineer.</em></h5>
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
 <h5 align="center"><em>&ensp; Feel free to reach out to me for collaboration, questions, or just a friendly chat. You can connect with me here on GitHub or find me on below social media</em></h5>
@@ -82,6 +81,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryold&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryold&theme=vision_friendly_dark&utcOffset=8)
 
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jerryold/<repository>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jerryold/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jerryold/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 ## Connect with me:
 <p align="left">
