@@ -73,9 +73,6 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60">&nbsp; My Github Stats
 
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryold&theme=vision_friendly_dark)
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250" height="400">
