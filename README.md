@@ -13,7 +13,9 @@
 <h5 align="center"><em>&ensp; Always learning and eager to connect with like-minded individuals. Let's learn, build, and create together.</em></h5>
 
 <div align="center">
+       
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&duration=3000&pause=100&color=874333&center=true&multiline=true&random=false&width=435&lines=Feel+free+to+reach+out+to+me+for++collaboration;You+can+connect+with+me+on+GitHub+or+social+media)](https://git.io/typing-svg)
+
 </div>
 
 
