@@ -13,7 +13,7 @@
 <h5 align="center"><em>&ensp; Feel free to reach out to me for collaboration, questions, or just a friendly chat. You can connect with me here on GitHub or find me on below social media</em></h5>
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="60">&nbsp; About Me
-<p style="display: flex; justify-contect: space-between;">
+
 - 🔭 I graduated from: **[Master Degree of National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/)**
 
 - 🌱 I’m currently interested in: **Deep learning and Computer Vision.**
@@ -22,8 +22,10 @@
         
 - ⚡ Habbit: **I like to enjoy outdoor activity and workout very often.**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="240">
-</p>
+<div align="right">
+       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="240">
+</div>
+
 
     
     
