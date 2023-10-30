@@ -89,11 +89,11 @@
 
 
 ## Connect with me:
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="200">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400">
 
-<a href = "https://www.linkedin.com/in/sheng-che-jerry-kao-20abb618a/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"></a>
-<a href = "https://www.facebook.com/profile.php?id=100001822796240"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80"></a>
-<a href = "https://www.instagram.com/jerryold_0602/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80"></a>
+<a href = "https://www.linkedin.com/in/sheng-che-jerry-kao-20abb618a/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
+<a href = "https://www.facebook.com/profile.php?id=100001822796240"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="90"></a>
+<a href = "https://www.instagram.com/jerryold_0602/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="90"></a>
 
 
 
