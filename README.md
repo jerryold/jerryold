@@ -77,9 +77,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerryold&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerryold&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerryold&theme=vision_friendly_dark)
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200" height="400">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryold&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerryold&theme=vision_friendly_dark&utcOffset=8)
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200" height="400">
+
 
 ## Connect with me:
 <p align="left">
